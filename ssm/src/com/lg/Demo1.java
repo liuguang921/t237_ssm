@@ -10,5 +10,6 @@ public class Demo1 {
     public static void main(String[] args) {
         System.out.println("项目搭建完毕，该干活了");
         System.out.println("组长也修改了文件");
+        System.out.println("组员更改了代码，提交到GitHub上");
     }
 }
